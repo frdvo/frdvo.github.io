@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FRDVO Comming soon!</title>
-    <link>https://frdvo.github.io/</link>
-    <description>Recent content on FRDVO Comming soon!</description>
+    <title>Terminal</title>
+    <link>https://frdvo.tk/</link>
+    <description>Recent content on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Jan 2021 22:18:14 +1030</lastBuildDate>
     
-	<atom:link href="https://frdvo.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://frdvo.tk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My 4 Post</title>
-      <link>https://frdvo.github.io/posts/my-4-post/</link>
+      <link>https://frdvo.tk/posts/my-4-post/</link>
       <pubDate>Fri, 29 Jan 2021 22:18:14 +1030</pubDate>
       
-      <guid>https://frdvo.github.io/posts/my-4-post/</guid>
+      <guid>https://frdvo.tk/posts/my-4-post/</guid>
       <description>4 working</description>
     </item>
     
     <item>
       <title>My Third Post</title>
-      <link>https://frdvo.github.io/posts/my-third-post/</link>
+      <link>https://frdvo.tk/posts/my-third-post/</link>
       <pubDate>Wed, 27 Jan 2021 22:21:54 +1030</pubDate>
       
-      <guid>https://frdvo.github.io/posts/my-third-post/</guid>
+      <guid>https://frdvo.tk/posts/my-third-post/</guid>
       <description>Third post</description>
     </item>
     
     <item>
       <title>My Second Post</title>
-      <link>https://frdvo.github.io/posts/my-second-post/</link>
+      <link>https://frdvo.tk/posts/my-second-post/</link>
       <pubDate>Wed, 27 Jan 2021 22:18:38 +1030</pubDate>
       
-      <guid>https://frdvo.github.io/posts/my-second-post/</guid>
+      <guid>https://frdvo.tk/posts/my-second-post/</guid>
       <description>My Second Post This is my second post
 Title 2 Using Hugo</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://frdvo.github.io/posts/my-first-post/</link>
+      <link>https://frdvo.tk/posts/my-first-post/</link>
       <pubDate>Wed, 27 Jan 2021 21:45:34 +1030</pubDate>
       
-      <guid>https://frdvo.github.io/posts/my-first-post/</guid>
+      <guid>https://frdvo.tk/posts/my-first-post/</guid>
       <description>This is my first post following the tutorial
 https://gohugo.io/getting-started/quick-start/</description>
     </item>
