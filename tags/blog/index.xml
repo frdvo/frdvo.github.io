@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on FRTech.dev</title>
+    <link>https://frtech.dev/tags/blog/</link>
+    <description>Recent content in blog on FRTech.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Feb 2021 15:19:49 +1030</lastBuildDate>
+    
+	<atom:link href="https://frtech.dev/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog Launch</title>
+      <link>https://frtech.dev/posts/blog-launch/</link>
+      <pubDate>Sun, 14 Feb 2021 15:19:49 +1030</pubDate>
+      
+      <guid>https://frtech.dev/posts/blog-launch/</guid>
+      <description>FRTech.dev blog is coming soon!</description>
+    </item>
+    
+  </channel>
+</rss>

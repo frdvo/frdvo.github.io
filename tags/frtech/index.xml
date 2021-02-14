@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>frtech on FRTech.dev</title>
+    <link>https://frtech.dev/tags/frtech/</link>
+    <description>Recent content in frtech on FRTech.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Feb 2021 14:47:33 +1030</lastBuildDate>
+    
+	<atom:link href="https://frtech.dev/tags/frtech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About frtech.dev</title>
+      <link>https://frtech.dev/about/</link>
+      <pubDate>Sun, 14 Feb 2021 14:47:33 +1030</pubDate>
+      
+      <guid>https://frtech.dev/about/</guid>
+      <description>FRTech.dev is a personal blog about Cloud and DevOps.
+I will post the things I&amp;rsquo;m learning, for instance, how-to tutorials, step by step procedures and tech related news. The goal is to keep track of what I&amp;rsquo;m learning and share my knowledge.
+Enjoy and feel free to reach me out on twitter @FernandoRolnik</description>
+    </item>
+    
+  </channel>
+</rss>

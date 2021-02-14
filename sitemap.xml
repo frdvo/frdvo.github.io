@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://frtech.dev/tags/blog/</loc>
+    <lastmod>2021-02-14T15:19:49+10:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://frtech.dev/posts/blog-launch/</loc>
+    <lastmod>2021-02-14T15:19:49+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frtech.dev/tags/launch/</loc>
     <lastmod>2021-02-14T15:19:49+10:30</lastmod>
   </url>
   
@@ -13,7 +23,22 @@
   </url>
   
   <url>
+    <loc>https://frtech.dev/tags/</loc>
+    <lastmod>2021-02-14T15:19:49+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frtech.dev/tags/about/</loc>
+    <lastmod>2021-02-14T14:47:33+10:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://frtech.dev/about/</loc>
+    <lastmod>2021-02-14T14:47:33+10:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frtech.dev/tags/frtech/</loc>
     <lastmod>2021-02-14T14:47:33+10:30</lastmod>
   </url>
   
@@ -24,10 +49,6 @@
   
   <url>
     <loc>https://frtech.dev/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://frtech.dev/tags/</loc>
   </url>
   
 </urlset>
