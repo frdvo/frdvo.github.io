@@ -1,43 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Terminal</title>
-    <link>https://frdvo.tk/posts/</link>
-    <description>Recent content in Posts on Terminal</description>
+    <title>Posts on FRTech.dev</title>
+    <link>https://frtech.dev/posts/</link>
+    <description>Recent content in Posts on FRTech.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jan 2021 22:21:54 +1030</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 15:19:49 +1030</lastBuildDate>
     
-	<atom:link href="https://frdvo.tk/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://frtech.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My Third Post</title>
-      <link>https://frdvo.tk/posts/my-third-post/</link>
-      <pubDate>Wed, 27 Jan 2021 22:21:54 +1030</pubDate>
-      
-      <guid>https://frdvo.tk/posts/my-third-post/</guid>
-      <description>Third post</description>
-    </item>
     
     <item>
-      <title>My Second Post</title>
-      <link>https://frdvo.tk/posts/my-second-post/</link>
-      <pubDate>Wed, 27 Jan 2021 22:18:38 +1030</pubDate>
+      <title>Blog Launch</title>
+      <link>https://frtech.dev/posts/blog-launch/</link>
+      <pubDate>Sun, 14 Feb 2021 15:19:49 +1030</pubDate>
       
-      <guid>https://frdvo.tk/posts/my-second-post/</guid>
-      <description>My Second Post This is my second post
-Title 2 Using Hugo</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://frdvo.tk/posts/my-first-post/</link>
-      <pubDate>Wed, 27 Jan 2021 21:45:34 +1030</pubDate>
-      
-      <guid>https://frdvo.tk/posts/my-first-post/</guid>
-      <description>This is my first post following the tutorial
-https://gohugo.io/getting-started/quick-start/</description>
+      <guid>https://frtech.dev/posts/blog-launch/</guid>
+      <description>FRTech.dev blog is coming soon!</description>
     </item>
     
   </channel>

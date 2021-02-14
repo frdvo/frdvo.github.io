@@ -3,36 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://frdvo.tk/posts/my-third-post/</loc>
-    <lastmod>2021-01-27T22:21:54+10:30</lastmod>
+    <loc>https://frtech.dev/posts/blog-launch/</loc>
+    <lastmod>2021-02-14T15:19:49+10:30</lastmod>
   </url>
   
   <url>
-    <loc>https://frdvo.tk/posts/</loc>
-    <lastmod>2021-01-27T22:21:54+10:30</lastmod>
+    <loc>https://frtech.dev/posts/</loc>
+    <lastmod>2021-02-14T15:19:49+10:30</lastmod>
   </url>
   
   <url>
-    <loc>https://frdvo.tk/</loc>
-    <lastmod>2021-01-27T22:21:54+10:30</lastmod>
+    <loc>https://frtech.dev/about/</loc>
+    <lastmod>2021-02-14T14:47:33+10:30</lastmod>
   </url>
   
   <url>
-    <loc>https://frdvo.tk/posts/my-second-post/</loc>
-    <lastmod>2021-01-27T22:18:38+10:30</lastmod>
+    <loc>https://frtech.dev/</loc>
+    <lastmod>2021-02-14T14:47:33+10:30</lastmod>
   </url>
   
   <url>
-    <loc>https://frdvo.tk/posts/my-first-post/</loc>
-    <lastmod>2021-01-27T21:45:34+10:30</lastmod>
+    <loc>https://frtech.dev/categories/</loc>
   </url>
   
   <url>
-    <loc>https://frdvo.tk/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://frdvo.tk/tags/</loc>
+    <loc>https://frtech.dev/tags/</loc>
   </url>
   
 </urlset>
